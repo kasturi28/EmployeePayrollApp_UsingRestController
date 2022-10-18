@@ -1,0 +1,10 @@
+2022-10-17 19:34:00.705  INFO 21244 --- [restartedMain] c.b.Employeepayroll.TestApplication      : Starting TestApplication using Java 18.0.1.1 on NIKAM203 with PID 21244 (C:\Users\kastu\CFP\EmployeePayroll\target\classes started by kastu in C:\Users\kastu\CFP\EmployeePayroll)
+2022-10-17 19:34:00.706 DEBUG 21244 --- [restartedMain] c.b.Employeepayroll.TestApplication      : Running with Spring Boot v2.7.4, Spring v5.3.23
+2022-10-17 19:34:00.707  INFO 21244 --- [restartedMain] c.b.Employeepayroll.TestApplication      : No active profile set, falling back to 1 default profile: "default"
+2022-10-17 19:34:03.025  WARN 21244 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-10-17 19:34:03.386  INFO 21244 --- [restartedMain] c.b.Employeepayroll.TestApplication      : Started TestApplication in 3.016 seconds (JVM running for 3.679)
+2022-10-17 19:34:03.388  INFO 21244 --- [restartedMain] c.b.Employeepayroll.TestApplication      : Application is running
+2022-10-17 19:34:03.389 DEBUG 21244 --- [restartedMain] c.b.Employeepayroll.TestApplication      : Debug message
+2022-10-17 19:34:03.389 ERROR 21244 --- [restartedMain] c.b.Employeepayroll.TestApplication      : Error message
+2022-10-17 19:34:03.389  WARN 21244 --- [restartedMain] c.b.Employeepayroll.TestApplication      : Warn message
+2022-10-17 19:42:34.701  WARN 21244 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m31s857ms739µs).

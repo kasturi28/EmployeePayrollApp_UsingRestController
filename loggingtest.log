@@ -1,0 +1,16 @@
+2022-10-17 20:14:50.799  INFO 21856 --- [restartedMain] c.b.Employeepayroll.TestApplication      : Starting TestApplication using Java 18.0.1.1 on NIKAM203 with PID 21856 (C:\Users\kastu\CFP\EmployeePayroll\target\classes started by kastu in C:\Users\kastu\CFP\EmployeePayroll)
+2022-10-17 20:14:50.801 DEBUG 21856 --- [restartedMain] c.b.Employeepayroll.TestApplication      : Running with Spring Boot v2.7.4, Spring v5.3.23
+2022-10-17 20:14:50.802  INFO 21856 --- [restartedMain] c.b.Employeepayroll.TestApplication      : No active profile set, falling back to 1 default profile: "default"
+2022-10-17 20:14:54.994  INFO 21856 --- [restartedMain] c.b.Employeepayroll.TestApplication      : Started TestApplication in 4.657 seconds (JVM running for 5.569)
+2022-10-17 20:14:54.999  INFO 21856 --- [restartedMain] c.b.Employeepayroll.TestApplication      : Application is running
+2022-10-17 20:14:55.000 DEBUG 21856 --- [restartedMain] c.b.Employeepayroll.TestApplication      : Debug message
+2022-10-17 20:14:55.000 ERROR 21856 --- [restartedMain] c.b.Employeepayroll.TestApplication      : Error message
+2022-10-17 20:14:55.000  WARN 21856 --- [restartedMain] c.b.Employeepayroll.TestApplication      : Warn message
+2022-10-17 20:29:17.620  INFO 18384 --- [restartedMain] c.b.Employeepayroll.TestApplication      : Starting TestApplication using Java 18.0.1.1 on NIKAM203 with PID 18384 (C:\Users\kastu\CFP\EmployeePayroll\target\classes started by kastu in C:\Users\kastu\CFP\EmployeePayroll)
+2022-10-17 20:29:17.621 DEBUG 18384 --- [restartedMain] c.b.Employeepayroll.TestApplication      : Running with Spring Boot v2.7.4, Spring v5.3.23
+2022-10-17 20:29:17.622  INFO 18384 --- [restartedMain] c.b.Employeepayroll.TestApplication      : The following 1 profile is active: "DEV"
+2022-10-17 20:29:20.897  INFO 18384 --- [restartedMain] c.b.Employeepayroll.TestApplication      : Started TestApplication in 3.715 seconds (JVM running for 4.56)
+2022-10-17 20:29:20.901  INFO 18384 --- [restartedMain] c.b.Employeepayroll.TestApplication      : Application is running
+2022-10-17 20:29:20.901 DEBUG 18384 --- [restartedMain] c.b.Employeepayroll.TestApplication      : Debug message
+2022-10-17 20:29:20.901 ERROR 18384 --- [restartedMain] c.b.Employeepayroll.TestApplication      : Error message
+2022-10-17 20:29:20.901  WARN 18384 --- [restartedMain] c.b.Employeepayroll.TestApplication      : Warn message
